@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "reactchat-f7c5e"
+  },
+  "targets": {},
+  "etags": {
+    "reactchat-f7c5e": {
+      "extensionInstances": {}
+    }
+  }
+}
